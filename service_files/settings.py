@@ -3,7 +3,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FILES_DIR = 'files'
 
-TOKEN = "1075866482:AAGlS0Qp8SZlKX3ELezTR9cIg4ank58uy7k"
+TOKEN = "<TOKEN>"
 
 STATES = {
     'ban': 0,
